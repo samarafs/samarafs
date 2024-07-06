@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning react native
+- 🔭 I’m currently working on Full-Stack
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: samara.ibra.santos@gmail.com
 - 😄 Pronouns: her/she
 <div align="center">
